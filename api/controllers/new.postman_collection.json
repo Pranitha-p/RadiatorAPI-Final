@@ -1,0 +1,26 @@
+{
+  "id": "checkingstatusofallapis",
+  "name": "new",
+  "description": "",
+  "order": [],
+  "folders_order": [ "folderforfiles" ],
+  "timestamp": 1524064952942,
+  "folders": [
+    {
+      "id": "folderforfiles",
+      "name": "Authentication",
+      "description": "",
+      "order": [
+
+      ],
+      "folders_order": [],
+      "owner": 0,
+      "collectionId": "checkingstatusofallapis"
+    }
+  ],
+  "owner": 0,
+  "public": false,
+  "requests": [
+  ]
+
+}

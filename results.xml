@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="new" time="24.586000000000002">
+  <testsuite name="Authentication / www.youtube.com" id="d78f9bd4-51b6-400f-9b09-d6f940682644" tests="1" time="1.509">
+    <testcase name="Status code is 200" time="1.509"/>
+  </testsuite>
+  <testsuite name="Authentication / www.youtube.com" id="e86f6102-9884-4ccb-a463-9cf820920a71" tests="1" time="1.64">
+    <testcase name="Status code is 200" time="1.64"/>
+  </testsuite>
+  <testsuite name="Authentication / www.facebook.com" id="14285590-3240-4874-a998-76a78e17ca04" tests="1" time="0.968">
+    <testcase name="Status code is 200" time="0.968"/>
+  </testsuite>
+  <testsuite name="Authentication / www.youtube.com" id="2e9316f6-290f-4783-a8ed-755cc548d62c" tests="1" time="1.143">
+    <testcase name="Status code is 200" time="1.143"/>
+  </testsuite>
+  <testsuite name="Authentication / www.facebook.com" id="73285c0c-bd86-4d33-a12b-532ab06f305e" tests="1" time="0.965">
+    <testcase name="Status code is 200" time="0.965"/>
+  </testsuite>
+  <testsuite name="Authentication / www.reddit.com" id="a96d8072-64e5-4ec9-8667-4b021df3586b" tests="1" time="1.347">
+    <testcase name="Status code is 200" time="1.347"/>
+  </testsuite>
+  <testsuite name="Authentication / www.reddit.com" id="3e369eaf-69fe-49e5-af3a-9f9619cf754b" tests="1" time="1.255">
+    <testcase name="Status code is 200" time="1.255"/>
+  </testsuite>
+  <testsuite name="Authentication / www.google.com" id="84691ee3-d30f-4eef-afbd-e89341564215" tests="1" time="0.157">
+    <testcase name="Status code is 200" time="0.157"/>
+  </testsuite>
+  <testsuite name="Authentication / www.google.com" id="429a87d6-2a20-4cc8-8b24-d17ba1e35811" tests="1" time="0.086">
+    <testcase name="Status code is 200" time="0.086"/>
+  </testsuite>
+  <testsuite name="Authentication / www.msrit.edu" id="a9832ff8-208f-4843-9f84-4d4de13f2a49" tests="1" time="0.436">
+    <testcase name="Status code is 200" time="0.436"/>
+  </testsuite>
+  <testsuite name="Authentication / www.intl.com" id="3bccbfb8-0269-4348-bcc7-475e2e8bc585" tests="1" time="0.006">
+    <testcase name="Status code is 200" time="0.006">
+      <failure type="AssertionFailure">
+        <![CDATA[Failed 1 times.]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Authentication / www.msrit.edu" id="b64945b2-7e86-4c09-affd-a97a39f749b6" tests="1" time="0.162">
+    <testcase name="Status code is 200" time="0.162"/>
+  </testsuite>
+  <testsuite name="Authentication / www.intl.com" id="f13e909f-5bee-404b-aed9-a45c90c627ab" tests="1" time="0.006">
+    <testcase name="Status code is 200" time="0.006">
+      <failure type="AssertionFailure">
+        <![CDATA[Failed 1 times.]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Authentication / www.mi.com" id="dfc436bd-b56c-44b7-9b39-ad3f221b1235" tests="1" time="0.231">
+    <testcase name="Status code is 200" time="0.231"/>
+  </testsuite>
+  <testsuite name="Authentication / www.myntra.com" id="3b8cec4a-0fba-4b3b-878e-a0ef9d753665" tests="1" time="3.221">
+    <testcase name="Status code is 200" time="3.221"/>
+  </testsuite>
+  <testsuite name="Authentication / www.toshiba.com" id="1345ff5c-471b-47c5-9999-1739f69eaf31" tests="1" time="0.592">
+    <testcase name="Status code is 200" time="0.592"/>
+  </testsuite>
+  <testsuite name="Authentication / www.stackoverflow.com" id="f5c83b06-2d52-4c6c-a459-f2fc12eed07a" tests="1" time="1.46">
+    <testcase name="Status code is 200" time="1.46"/>
+  </testsuite>
+  <testsuite name="Authentication / www.nba.com" id="3cb955f0-2455-4eab-ac19-ae57cf150009" tests="1" time="0.495">
+    <testcase name="Status code is 200" time="0.495"/>
+  </testsuite>
+  <testsuite name="Authentication / www.nba.com" id="1ae8609e-0e1c-494a-9834-ab5a65d02181" tests="1" time="0.226">
+    <testcase name="Status code is 200" time="0.226"/>
+  </testsuite>
+  <testsuite name="Authentication / www.espn.com" id="984f7300-b1eb-4e54-b912-39b215fd6701" tests="1" time="0.888">
+    <testcase name="Status code is 200" time="0.888"/>
+  </testsuite>
+  <testsuite name="Authentication / www.duckduckgo.com" id="b769b334-5be8-42e8-9e25-a89b215ec087" tests="1" time="0.62">
+    <testcase name="Status code is 200" time="0.62"/>
+  </testsuite>
+  <testsuite name="Authentication / www.ion.com" id="22ce177f-c7cb-470f-a9d3-8f8bb0610f58" tests="1" time="2.368">
+    <testcase name="Status code is 200" time="2.368"/>
+  </testsuite>
+  <testsuite name="Authentication / www.ion.com" id="2151e830-29ab-4e67-9dc3-d95819452245" tests="1" time="1.929">
+    <testcase name="Status code is 200" time="1.929"/>
+  </testsuite>
+  <testsuite name="Authentication / www.ion.com" id="ca371d17-6a89-411f-abc2-417d71bf92e1" tests="1" time="2.49">
+    <testcase name="Status code is 200" time="2.49"/>
+  </testsuite>
+  <testsuite name="Authentication / www.iont.com" id="158ebae5-6f35-4da1-9194-a2abc603bf28" tests="1" time="0.386">
+    <testcase name="Status code is 200" time="0.386"/>
+  </testsuite>
+</testsuites>

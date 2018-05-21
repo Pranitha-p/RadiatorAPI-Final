@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "name": "",
+  "description": "",
+  "collectionId": "checkingstatusofallapis",
+  "method": "",
+  "headers": "",
+  "dataMode": "raw",
+  "data": [],
+  "rawModeData": "",
+  "pathVariables": {},
+  "tests": "tests[\"Status code is 200\"] = responseCode.code === 200;",
+  "preRequestScript": "",
+  "url": "",
+  "responses": [],
+  "pathVariableData": [],
+  "headerData": [
+    {
+      "key": "",
+      "value": "Basic",
+      "description": "",
+      "enabled": false
+    }
+  ]
+}
